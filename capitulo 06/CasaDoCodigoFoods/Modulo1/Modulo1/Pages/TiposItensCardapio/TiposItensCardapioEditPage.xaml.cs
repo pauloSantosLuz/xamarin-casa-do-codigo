@@ -44,13 +44,13 @@ namespace Modulo1.Pages.TiposItensCardapio
                 }
 
                 var file = await CrossMedia.Current.PickPhotoAsync();
-                var getArquivoPCL = FileSystem.Current.GetFileFromPathAsync(file.Path);
-                var rootFolder = FileSystem.Current.LocalStorage;
-                var folderFoto = await rootFolder.CreateFolderAsync("Fotos", CreationCollisionOption.OpenIfExists);
-                var setArquivoPCL = folderFoto.CreateFileAsync(getArquivoPCL.Result.Name, CreationCollisionOption.ReplaceExisting);
-                var arquivoLido = getArquivoPCL.Result.ReadAllBytesAsync();
-                var arquivoEscrito = setArquivoPCL.Result.WriteAllBytesAsync(arquivoLido.Result);
-                caminhoArquivo = setArquivoPCL.Result.Path;
+                //var getArquivoPCL = FileSystem.Current.GetFileFromPathAsync(file.Path);
+                //var rootFolder = FileSystem.Current.LocalStorage;
+                //var folderFoto = await rootFolder.CreateFolderAsync("Fotos", CreationCollisionOption.OpenIfExists);
+                //var setArquivoPCL = folderFoto.CreateFileAsync(getArquivoPCL.Result.Name, CreationCollisionOption.ReplaceExisting);
+                //var arquivoLido = getArquivoPCL.Result.ReadAllBytesAsync();
+                //var arquivoEscrito = setArquivoPCL.Result.WriteAllBytesAsync(arquivoLido.Result);
+                //caminhoArquivo = setArquivoPCL.Result.Path;
 
                 if (file == null)
                     return;
@@ -79,7 +79,7 @@ namespace Modulo1.Pages.TiposItensCardapio
                 var file = await CrossMedia.Current.TakePhotoAsync(
                     new Plugin.Media.Abstractions.StoreCameraMediaOptions
                     {
-                        Directory = FileSystem.Current.LocalStorage.Name,
+                        //Directory = FileSystem.Current.LocalStorage.Name,
                         Name = "tipoitem_" + idparafoto.Trim() + ".jpg"
                     });
 

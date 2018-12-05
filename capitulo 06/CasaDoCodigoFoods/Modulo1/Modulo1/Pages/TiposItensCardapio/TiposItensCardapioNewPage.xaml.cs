@@ -63,7 +63,7 @@ namespace Modulo1.Pages.TiposItensCardapio
                 var file = await CrossMedia.Current.TakePhotoAsync(
                     new Plugin.Media.Abstractions.StoreCameraMediaOptions
                     {
-                        Directory = FileSystem.Current.LocalStorage.Name,
+                        //Directory = FileSystem.Current.LocalStorage.Name,
                         Name = "tipoitem_" + idparafoto + ".jpg"
                     });
 

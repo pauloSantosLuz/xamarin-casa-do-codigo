@@ -1,6 +1,6 @@
 ﻿using Modulo1.Infraestructure;
 using Modulo1.Modelo;
-using SQLite.Net;
+using SQLite;
 using SQLiteNetExtensions.Extensions;
 using System.Collections.Generic;
 using System.Linq;

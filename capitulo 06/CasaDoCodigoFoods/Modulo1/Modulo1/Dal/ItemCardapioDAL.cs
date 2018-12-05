@@ -1,6 +1,6 @@
 ﻿using Modulo1.Infraestructure;
 using Modulo1.Modelo;
-using SQLite.Net;
+using SQLite;
 using Xamarin.Forms;
 
 namespace Modulo1.Dal
