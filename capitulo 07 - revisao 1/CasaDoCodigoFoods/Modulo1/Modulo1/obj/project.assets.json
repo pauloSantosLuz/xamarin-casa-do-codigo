@@ -712,7 +712,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
+      "sha512": "a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -2435,11 +2435,12 @@
       ]
     },
     "System.Runtime.Serialization.Primitives/4.1.1": {
-      "sha512": "HZ6Du5QrTG8MNJbf4e4qMO3JRAkIboGT5Fk804uZtg3Gq516S7hAqTm2UZKUHa7/6HUGdVy3AqMQKbns06G/cg==",
+      "sha512": "+mqQrrJsDx5yxIq+wLYKHr6pVc08ETOzJFwE3QvWmEwM4CU5RNKGdqu47bk+HGScaT58ZCVFmjwpp0OBUxy1QA==",
       "type": "package",
       "path": "system.runtime.serialization.primitives/4.1.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3201,11 +3202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Xamarin2E\\capitulo 07 - revisao 1\\CasaDoCodigoFoods\\Modulo1\\Modulo1\\Modulo1.csproj",
+      "projectUniqueName": "C:\\Users\\Everton\\Documents\\GitHub\\xamarin-casa-do-codigo\\capitulo 07 - revisao 1\\CasaDoCodigoFoods\\Modulo1\\Modulo1\\Modulo1.csproj",
       "projectName": "Modulo1",
-      "projectPath": "C:\\Xamarin2E\\capitulo 07 - revisao 1\\CasaDoCodigoFoods\\Modulo1\\Modulo1\\Modulo1.csproj",
+      "projectPath": "C:\\Users\\Everton\\Documents\\GitHub\\xamarin-casa-do-codigo\\capitulo 07 - revisao 1\\CasaDoCodigoFoods\\Modulo1\\Modulo1\\Modulo1.csproj",
       "packagesPath": "C:\\Users\\Everton\\.nuget\\packages\\",
-      "outputPath": "C:\\Xamarin2E\\capitulo 07 - revisao 1\\CasaDoCodigoFoods\\Modulo1\\Modulo1\\obj\\",
+      "outputPath": "C:\\Users\\Everton\\Documents\\GitHub\\xamarin-casa-do-codigo\\capitulo 07 - revisao 1\\CasaDoCodigoFoods\\Modulo1\\Modulo1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "3fff021481681dd90ead5cf41fb87380ce1b6425"
+    "signature": "39a318e4314ac3da63ad54c56ed3bf2d61d315b4"
   },
   "compilationOptions": {},
   "targets": {
@@ -15,8 +15,8 @@
           "Xam.Plugin.Geolocator": "4.5.0.6",
           "Xam.Plugin.Media": "4.0.1.5",
           "Xam.Plugins.Messaging": "5.2.0",
-          "Xamarin.Forms": "3.4.0.1009999",
-          "Xamarin.Forms.Maps": "3.4.0.1009999",
+          "Xamarin.Forms": "3.5.0.169047",
+          "Xamarin.Forms.Maps": "3.5.0.169047",
           "sqlite-net-pcl": "1.5.231"
         },
         "runtime": {
@@ -562,7 +562,7 @@
           }
         }
       },
-      "Xamarin.Forms/3.4.0.1009999": {
+      "Xamarin.Forms/3.5.0.169047": {
         "runtime": {
           "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
             "assemblyVersion": "2.0.0.0",
@@ -578,9 +578,9 @@
           }
         }
       },
-      "Xamarin.Forms.Maps/3.4.0.1009999": {
+      "Xamarin.Forms.Maps/3.5.0.169047": {
         "dependencies": {
-          "Xamarin.Forms": "3.4.0.1009999"
+          "Xamarin.Forms": "3.5.0.169047"
         },
         "runtime": {
           "lib/netstandard2.0/Xamarin.Forms.Maps.Design.dll": {
@@ -835,7 +835,7 @@
     "System.Runtime.Serialization.Primitives/4.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-HZ6Du5QrTG8MNJbf4e4qMO3JRAkIboGT5Fk804uZtg3Gq516S7hAqTm2UZKUHa7/6HUGdVy3AqMQKbns06G/cg==",
+      "sha512": "sha512-+mqQrrJsDx5yxIq+wLYKHr6pVc08ETOzJFwE3QvWmEwM4CU5RNKGdqu47bk+HGScaT58ZCVFmjwpp0OBUxy1QA==",
       "path": "system.runtime.serialization.primitives/4.1.1",
       "hashPath": "system.runtime.serialization.primitives.4.1.1.nupkg.sha512"
     },
@@ -916,19 +916,19 @@
       "path": "xam.plugins.messaging/5.2.0",
       "hashPath": "xam.plugins.messaging.5.2.0.nupkg.sha512"
     },
-    "Xamarin.Forms/3.4.0.1009999": {
+    "Xamarin.Forms/3.5.0.169047": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-pgqRxgD23FJHG2B7zOxf4Fm+KYgoWctUJp8hNtdZgAt43RIiK3VgM11wJf3S0SkMIsXQCUL0yYQmR8gR/njltA==",
-      "path": "xamarin.forms/3.4.0.1009999",
-      "hashPath": "xamarin.forms.3.4.0.1009999.nupkg.sha512"
+      "sha512": "sha512-bDUiWsvlU949lyf8gw5ROVQ0kRr1dB8daiWATYCXuOXv/iODsbq/8NmNVxhV2WbOo8b8wJMe7SqZG4V/CQlYuQ==",
+      "path": "xamarin.forms/3.5.0.169047",
+      "hashPath": "xamarin.forms.3.5.0.169047.nupkg.sha512"
     },
-    "Xamarin.Forms.Maps/3.4.0.1009999": {
+    "Xamarin.Forms.Maps/3.5.0.169047": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-SUK6ARihgGbu0zrF9C8ceQzplHMaTfAEBzVbmQl0zGYNUlcb8dpM6h1XtV03VtmD3w65KAxdlUwGIfgFOqa4Tg==",
-      "path": "xamarin.forms.maps/3.4.0.1009999",
-      "hashPath": "xamarin.forms.maps.3.4.0.1009999.nupkg.sha512"
+      "sha512": "sha512-U0KXosPG7KVdJv5TtRhYIg+IMcknqWgV4zP9PCvo2YhfoBeY45P480K1eP1aLyZ5eYKLLWuF7OZ/xzGztk2N4g==",
+      "path": "xamarin.forms.maps/3.5.0.169047",
+      "hashPath": "xamarin.forms.maps.3.5.0.169047.nupkg.sha512"
     }
   }
 }

@@ -1,3 +1,11 @@
+C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\Modulo1.iOS.csprojAssemblyReference.cache
+C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\Modulo1.iOS.csproj.CoreCompileInputs.cache
 C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\bin\iPhoneSimulator\Debug\Modulo1.iOS.exe
 C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\bin\iPhoneSimulator\Debug\Modulo1.iOS.pdb
 C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
@@ -53,14 +61,6 @@ C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\bin\i
 C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
 C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\bin\iPhoneSimulator\Debug\Modulo1.dll
 C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\bin\iPhoneSimulator\Debug\Modulo1.pdb
-C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
-C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
-C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
-C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
-C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
-C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\optimized\
-C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\Modulo1.iOS.csprojAssemblyReference.cache
-C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\Modulo1.iOS.csproj.CoreCompileInputs.cache
 C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
 C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\Modulo1.iOS.csproj.CopyComplete
 C:\Xamarin2E\capitulo 06 - revisao 1\CasaDoCodigoFoods\Modulo1\Modulo1.iOS\obj\iPhoneSimulator\Debug\Modulo1.iOS.exe

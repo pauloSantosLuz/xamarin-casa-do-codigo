@@ -145,7 +145,7 @@ namespace Modulo1.Pages.Pedidos
 
         // Método que captura o clique da action context para verificação de rota
         // de entrega
-        public async void OnVerificarRotaClick(object sender, ItemTappedEventArgs e)
+        private async void OnVerificarRotaClick(object sender, EventArgs e)
         {
             var mi = ((MenuItem)sender);
             var pedido = mi.CommandParameter as Pedido;
@@ -168,7 +168,7 @@ namespace Modulo1.Pages.Pedidos
         }
 
         // Método que captura a gesture no item da ListView
-        public async void OnItemTapped(object o, ItemTappedEventArgs e)
+        private async void OnItemTapped(object o, ItemTappedEventArgs e)
         {
             await Navigation.PushAsync(new PedidosAcompanhamentoPage());
         }

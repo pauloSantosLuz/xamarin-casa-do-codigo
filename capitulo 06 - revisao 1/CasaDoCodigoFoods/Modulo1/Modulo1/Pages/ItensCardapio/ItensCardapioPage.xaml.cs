@@ -17,7 +17,7 @@ namespace Modulo1.Pages.ItensCardapio
     public partial class ItensCardapioPage : ContentPage
     {
         private TipoItemCardapioDAL dalTipoItemCardapio = new TipoItemCardapioDAL();
-        private ItemCardapioDAL itemCardapioDAL = new ItemCardapioDAL();
+        private ItemCardapioDAL dalItemCardapio = new ItemCardapioDAL();
 
         public ItensCardapioPage()
         {
